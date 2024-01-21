@@ -1,0 +1,110 @@
+body .header .main-logo {
+    background: #fff;
+  }
+  body .header .logo-white {
+    display: none;
+  }
+  body .header .logo-color {
+    display: block;
+  }
+  body .header .toggle-bars .bar-icons {
+    background: #878a99;
+  }
+  
+  .img-upload .btn-primary{
+  color:white;
+  }
+  
+  .card-body-chat .react-datepicker-wrapper .react-datepicker__input-container {
+    position: relative;
+    display: inline-block;
+    width: 228px;
+  }
+  .css-1hb7zxy-IndicatorsContainer span.css-1u9des2-indicatorSeparator {
+    display: none;
+  }
+  .fc-toolbar-chunk button.fc-today-button.fc-button.fc-button-primary {
+    text-transform: capitalize;
+  }
+  .fc-toolbar-chunk .fc-button-group button.fc-button-primary {
+    text-transform: capitalize;
+  }
+  .full-calendar span.fc-icon-chevron-left {
+    color: #797979;
+  }
+  .fc .fc-button-primary {
+    color: #797979;
+  }
+  .margin-drop {
+    margin-right: 5px;
+  }
+  .fc-header-toolbar.fc-toolbar .fc-button {
+    background-color: #eeeeee;
+    border: 1px solid #eeeeee;
+  }
+  
+  .fc .fc-button-primary:not(:disabled).fc-button-active,
+  .fc .fc-button-primary:not(:disabled):active {
+    opacity: 0.8;
+    background-color: #7638ff;
+    border: 1px solid #7638ff;
+    color: white;
+  }
+  .fc .fc-button:disabled {
+    opacity: 0.8;
+    background-color: #7638ff;
+    border: 1px solid #7638ff;
+    color: white;
+  }
+  .fc-h-event {
+    background-color: #22cc62;
+  }
+  .fc-v-event {
+    background-color: #22cc62;
+  }
+  .fc-button-group button.fc-button-primary:hover {
+    color: #797979;
+  }
+  .ant-spin-container ul.ant-pagination.ant-table-pagination li.ant-pagination-prev {
+    margin-right: 10px !important;
+  }
+  .ant-spin-container ul.ant-pagination.ant-table-pagination li.ant-pagination-next {
+    margin-left: 10px !important;
+  }
+  .modal-body form .react-datepicker-wrapper {
+    width: 100%;
+  }
+  .react-datepicker__week .react-datepicker__day--selected {
+    background-color: #7638ff;
+  }
+  .sort-by .css-13cymwt-control {
+    border: none;
+    box-shadow: none;
+  }
+  .sort-by .css-13cymwt-control:focus {
+    box-shadow: none;
+    border: none;
+  }
+  .sort-by .css-t3ipsp-control:hover {
+    border: none;
+  }
+  .slick-slider.plan-billing-slider div.slick-slide>div{
+    margin-right: 20px;
+  }
+  .plan-billing-slider  .packages.active:after {
+    position: absolute;
+    top: -12px;
+    right: -12px;
+    content: "\f058";
+    font-family: "Font Awesome 6 Free";
+    color: #19A855;
+    font-size: 24px;
+    font-weight: 900;
+    z-index: 1;
+  }
+  .slick-list.button .slick-arrow .slick-next{
+    color:red;
+  }
+  .btn-primary{
+    z-index: 0!important;
+  }
