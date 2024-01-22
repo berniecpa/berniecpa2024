@@ -257,7 +257,7 @@ const AppContainer = () => {
   }, [location.pathname]);
 
   return (
-    <Router basename="/kanakku/template/">
+    <Router basename="/">
       {showStickySidebar && <StickySidebar />}
       <Switch>
         <Route path="/index" component={Dashboard} />
