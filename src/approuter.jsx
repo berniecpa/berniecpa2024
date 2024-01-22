@@ -5,7 +5,7 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 const AppRouter = () => {
   // const config = "/template/react";
   return (
-    <Router basename="/kanakku/template/">
+    <Router basename="/">
       <Route render={(props) => <AppContainer {...props} />} />
     </Router>
   );
